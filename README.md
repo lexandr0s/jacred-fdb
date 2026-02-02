@@ -2,6 +2,10 @@
 
 [![Build](https://github.com/pavelpikta/jacred-fdb/actions/workflows/build.yml/badge.svg)](https://github.com/pavelpikta/jacred-fdb/actions/workflows/build.yml)
 
+>[!Important]
+> Данный репозиторий переведен в архив, чтобы избежать удаления исходного форка.
+> Активная разработка продолжается по адресу: [JacRed](https://github.com/jacred-fdb/jacred)
+
 ## AI Документация
 
 [![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/pavelpikta/jacred-fdb)
